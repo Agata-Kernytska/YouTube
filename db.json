@@ -1,0 +1,12 @@
+{
+  "videos": [
+    { "id": 1, "title": "Відео 1", "channel": "Канал A", "description": "Опис відео 1", "image": "url1" },
+    { "id": 2, "title": "Відео 2", "channel": "Канал B", "description": "Опис відео 2", "image": "url2" },
+    { "id": 3, "title": "Відео 3", "channel": "Канал C", "description": "Опис відео 3", "image": "url3" }
+  ],
+  "playlists": [
+    { "id": 1, "name": "Улюблені", "videos": 28 },
+    { "id": 2, "name": "Illustrator", "videos": 18 },
+    { "id": 3, "name": "Liked Videos", "videos": 478 }
+  ]
+}
